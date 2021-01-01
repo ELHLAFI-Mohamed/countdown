@@ -18,14 +18,14 @@ body{
 
 }
 #time{
-	display: flex;
+	display: none;
 	/*flex-direction: row;*/
 	font-size: 10vh;
 	width: 100vw;
 	justify-content: space-around; 
 }
 #clock{
-	display: flex;
+	display: none;
 	/*flex-direction: row;*/
 	font-size: 10vh;
 	/*justify-content: space-around;*/
