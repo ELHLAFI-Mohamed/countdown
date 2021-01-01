@@ -40,6 +40,13 @@ body{
 	animation:move ease-in-out 1s infinite; 
 }
 
-
+@keyframes move{
+	from{
+		transform: translateY(0);
+	}
+	to{
+		transform: translateY(-25vh);
+	}
+}
 
 
