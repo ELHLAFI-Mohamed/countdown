@@ -20,7 +20,7 @@ body{
 	display: flex;
 	/*flex-direction: row;*/
 	font-size: 5vh;
-	width: 85vw;
+	width: 60vw;
 	justify-content: space-around; 
 }
 #clock{
