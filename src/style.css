@@ -39,20 +39,7 @@ body{
 .move{
 	animation:move ease-in-out 1s infinite; 
 }
-@keyframes move{
-	from{
-		transform: translateY(0);
-	}
-	to{
-		transform: translateY(-25vh);
-	}
-}
-#content-desktop {display: block;}
-#content-mobile {display: none;}
 
-@keyframes and (max-width: 768px) {
 
-#content-desktop {display: none;}
-#content-mobile {display: block;}
 
-}
+
