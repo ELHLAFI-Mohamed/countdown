@@ -20,8 +20,8 @@ body{
 #time{
 	display: flex;
 	/*flex-direction: row;*/
-	font-size: 5vh;
-	width: 60vw;
+	font-size: 10vh;
+	width: 100vw;
 	justify-content: space-around; 
 }
 #clock{
