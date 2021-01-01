@@ -19,16 +19,16 @@ body{
 }
 #time{
 	display: flex;
-	/*flex-direction: row;*/
+	flex-direction: row;
 	font-size: large;
 	width: 100vw;
 	justify-content: space-around; 
 }
 #clock{
 	display: flex;
-	/*flex-direction: row;*/
+	flex-direction: row;
 	font-size:large;
-	/*justify-content: space-around;*/
+	justify-content: space-around;
 	font-family: "courier-new" ,courier,monospace;
 	height: 10vh;
 	line-height: 10vh;
