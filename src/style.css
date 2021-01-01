@@ -29,7 +29,7 @@ body{
 	/*flex-direction: row;*/
 	font-size: 10vh;
 	/*justify-content: space-around;*/
-	/*font-family: "courier-new" ,courier,monospace;*/
+	font-family: "courier-new" ,courier,monospace;
 	height: 10vh;
 	line-height: 10vh;
 	overflow: hidden;
