@@ -1,4 +1,4 @@
 
-$('#clock').countdown('2020/10/10', function(event) {
+$('#clock').countdown('2021/01/20', function(event) {
   $(this).html(event.strftime('%D:%H:%M:%S'));
 });
